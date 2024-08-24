@@ -1,4 +1,4 @@
-<h2>🌟 We can't make it alone 🌟<h2></h2>
+<h2> We can't make it alone ☔ <h2></h2>
 
 Puzzle game 2D, made in Unity first, and currently working on Godot 4.2.
 
@@ -7,7 +7,7 @@ Alice never believed she possessed this gift, always hidden in her own reality, 
 But when her reality was completely altered, she had to adapt. First, survive, then, fight, and finally, be resilient."_
 
 
-New project I'm working on it, for now it's only a paper prototype, but I'm too excited about what is to come 😘🧡
+New project I'm working on it, using my skills as a Game Desing and a little of programming. 😘🧡
 
 ### In the meantime, meet Alice 👇
 
